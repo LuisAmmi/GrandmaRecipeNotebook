@@ -7,6 +7,63 @@
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
     "width" : 3273,
+    "id" : "https://LuisAmmi.github.io/GrandmaRecipeNotebook/images/8-9_GRN/canvas/",
+    "label" : {
+      "none" : [ "8-9_GRN" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://LuisAmmi.github.io/GrandmaRecipeNotebook/images/8-9_GRN/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://LuisAmmi.github.io/GrandmaRecipeNotebook/images/8-9_GRN/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 103,
+              "height" : 73
+            }, {
+              "width" : 205,
+              "height" : 145
+            }, {
+              "width" : 410,
+              "height" : 290
+            }, {
+              "width" : 819,
+              "height" : 579
+            }, {
+              "width" : 1637,
+              "height" : 1157
+            }, {
+              "width" : 3273,
+              "height" : 2314
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 3273,
+            "@id" : "https://LuisAmmi.github.io/GrandmaRecipeNotebook/images/8-9_GRN",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 2314
+          } ],
+          "format" : "image/jpeg",
+          "width" : 3273,
+          "id" : "https://LuisAmmi.github.io/GrandmaRecipeNotebook/images/8-9_GRN/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 2314
+        },
+        "target" : "https://LuisAmmi.github.io/GrandmaRecipeNotebook/images/8-9_GRN/canvas/"
+      } ]
+    } ],
+    "height" : 2314
+  }, {
+    "width" : 3273,
     "id" : "https://LuisAmmi.github.io/GrandmaRecipeNotebook/images/16-17_GRN/canvas/",
     "label" : {
       "none" : [ "16-17_GRN" ]
